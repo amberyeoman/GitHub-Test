@@ -3,6 +3,7 @@
 ```
 bread
 marmite
+sausage (vg)
 bread
 ```
 
