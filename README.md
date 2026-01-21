@@ -6,4 +6,5 @@ Here's our todo:
 - [x] Make our first commit
 - [x] Fix this typo
 Making some more changes
-xxxx
+Adding things
+and some more things
