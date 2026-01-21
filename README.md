@@ -3,5 +3,5 @@ Test
 Here's our todo:
 
 - [x] Create a new file
-- [ ] Make our first commit
+- [x] Make our first commit
 - [ ] Fix this tpyo
